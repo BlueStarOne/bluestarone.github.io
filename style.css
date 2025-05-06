@@ -4,7 +4,7 @@
     top: 0;
     width: 100%;
     height: 10%;
-    background-image: linear-gradient(to top , rgba(255, 0, 0, 0), rgba(255, 0, 0, 0.192));
+    background-image: linear-gradient(to top , rgba(0, 0, 0, 1), rgba(0, 26, 121, 1));
     color: white;
     text-align: left;
     display: flex;
@@ -14,13 +14,18 @@
 
 .top-banner pre {
     font-size: 20px;
+    margin-left: 7%;
 }
 
 body {
     background-color: black;
-    margin-top: 7%;
+    margin-top: 10%;
     color: white;
     font-family: monospace;
+}
+
+body a {
+  color: white;
 }
 
 footer {
@@ -29,7 +34,7 @@ footer {
     bottom: 0;
     width: 100%;
     height: 10%;
-    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0), rgba(255, 0, 0, 0.192));
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 26, 121, 1));
     color: white;
     text-align: center;
     display: flex;
