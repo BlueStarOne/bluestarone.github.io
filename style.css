@@ -4,7 +4,7 @@
     top: 0;
     width: 100%;
     height: 10%;
-    background-image: linear-gradient(to top , rgba(0, 0, 0, 1), rgba(0, 26, 121 / 45%));
+    background-image: linear-gradient(to top , rgba(0, 0, 0, 1), rgba(0 26 121 / 45%));
     color: white;
     text-align: left;
     display: flex;
@@ -34,7 +34,7 @@ footer {
     bottom: 0;
     width: 100%;
     height: 10%;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 26, 121 / 45%));
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0 26 121 / 45%));
     color: white;
     text-align: center;
     display: flex;
